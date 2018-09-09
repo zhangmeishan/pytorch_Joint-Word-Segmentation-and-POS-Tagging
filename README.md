@@ -1,8 +1,6 @@
 # JointST    
 A re-implementation of [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351918) based on Pytorch.   
 
-Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( Volume: 26, Issue: 9, Sept. 2018 )  
-
  
 # Requirement:
 	Python  == 3  
