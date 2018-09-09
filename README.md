@@ -1,5 +1,5 @@
-# JointPS: [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351918)
-In this paper, we present a simple yet effective sequence-to-sequence neural model for the joint task, based on a well-defined transition system, by using long short term memory (LSTM) neural network structures.   
+# JointST    
+A re-implementation of [A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351918) based on Pytorch.   
 
 Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( Volume: 26, Issue: 9, Sept. 2018 )  
 
@@ -23,12 +23,10 @@ Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( 
 	rnn_dim: 200
 	rnn_hidden_dim: 200
 	pos_dim: 100
-	oov: avg 
-	use_cuda： True or False
 	Refer to config.cfg file for more details.
 
 # Network Structure
-![](https://i.imgur.com/wIAMutu.png)
+![](model.png)
 
 # Performance
 
@@ -55,6 +53,6 @@ Published in: IEEE/ACM Transactions on Audio, Speech, and Language Processing ( 
 	}
 
 # Question #
-- if you have any question, you can open a issue or email `mason.zms@gmail.com`、`yunan.hlju@gmail.com`、`bamtercelboo@{gmail.com, 163.com}`.
+- if you have any question, you can open an issue or email `mason.zms@gmail.com`、`yunan.hlju@gmail.com`、`bamtercelboo@{gmail.com, 163.com}`.
 
 - if you have any good suggestions, you can PR or email me.
