@@ -54,3 +54,6 @@ A re-implementation of [A Simple and Effective Neural Model for Joint Word Segme
 - if you have any question, you can open an issue or email `mason.zms@gmail.com`、`yunan.hlju@gmail.com`、`bamtercelboo@{gmail.com, 163.com}`.
 
 - if you have any good suggestions, you can PR or email me.
+
+# Authors    
+Zonglin Liu, Meishan Zhang
